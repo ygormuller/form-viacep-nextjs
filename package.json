@@ -19,7 +19,8 @@
     "react-hook-form": "^7.30.0",
     "react-redux": "^8.0.1",
     "redux": "^4.2.0",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.5",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@types/node": "^18.0.8",
